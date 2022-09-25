@@ -1,0 +1,73 @@
+C:\Users\Kai\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Kai\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Kai\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Kai\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kai\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Kai\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Kai\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Kai\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Kai\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Kai\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Kai\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Kai\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Kai\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Kai\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Kai\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Kai\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kai\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Kai\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Kai\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Kai\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Kai\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Kai\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Kai\Desktop\MyPaint-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Kai\Desktop\MyPaint-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Kai\Desktop\MyPaint-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Kai\Desktop\MyPaint-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Kai\Desktop\MyPaint-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kai\Desktop\MyPaint-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Kai\Desktop\MyPaint-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Kai\Desktop\MyPaint-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Kai\Desktop\MyPaint-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Kai\Desktop\MyPaint-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Kai\Desktop\MyPaint-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\KAI\Desktop\MyPaint\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\KAI\Desktop\MyPaint\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\KAI\Desktop\MyPaint\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\KAI\Desktop\MyPaint\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\KAI\Desktop\MyPaint\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\KAI\Desktop\MyPaint\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\KAI\Desktop\MyPaint\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\KAI\Desktop\MyPaint\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\KAI\Desktop\MyPaint\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\KAI\Desktop\MyPaint\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\KAI\Desktop\MyPaint\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\HP\Desktop\MyPaint\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\HP\Desktop\MyPaint\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\HP\Desktop\MyPaint\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\HP\Desktop\MyPaint\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\HP\Desktop\MyPaint\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\HP\Desktop\MyPaint\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\MyPaint\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\MyPaint\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\HP\Desktop\MyPaint\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\HP\Desktop\MyPaint\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\KAI\Desktop\Новая папка\MyPaint\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\KAI\Desktop\Новая папка\MyPaint\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\KAI\Desktop\Новая папка\MyPaint\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\KAI\Desktop\Новая папка\MyPaint\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\KAI\Desktop\Новая папка\MyPaint\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\KAI\Desktop\Новая папка\MyPaint\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\KAI\Desktop\Новая папка\MyPaint\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\KAI\Desktop\Новая папка\MyPaint\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\KAI\Desktop\Новая папка\MyPaint\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\KAI\Desktop\Новая папка\MyPaint\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\KAI\Desktop\Новая папка\MyPaint\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\HP\Desktop\MyPaint\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\MyPaint\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\MyPaint\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\HP\Desktop\MyPaint\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SettingsForm.resources
+C:\Users\KAI\Desktop\Новая папка\MyPaint\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KAI\Desktop\Новая папка\MyPaint\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KAI\Desktop\Новая папка\MyPaint\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SettingsForm.resources
+C:\Users\KAI\Desktop\Новая папка\MyPaint\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
